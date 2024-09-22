@@ -1,2 +1,2 @@
 # GraphTool
-Easy to Use Graphing Tool
+Easy to Use Graphing Tool.
