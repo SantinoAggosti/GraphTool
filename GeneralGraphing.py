@@ -25,8 +25,3 @@ def realRange(minVal, maxVal, log, samples):
     else:
         xValues = np.linspace(minVal, maxVal, samples)  # linear scale
     return xValues
-
-def funcionArbitraria(range, Rds):
-    enumerador = Rds
-    denominador = range
-    return enumerador/denominador
